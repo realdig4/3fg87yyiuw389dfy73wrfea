@@ -1,0 +1,10 @@
+gw.dataimpulse.com:10000
+gw.dataimpulse.com:10001
+gw.dataimpulse.com:10002
+gw.dataimpulse.com:10003
+gw.dataimpulse.com:10004
+gw.dataimpulse.com:10005
+gw.dataimpulse.com:10006
+gw.dataimpulse.com:10007
+gw.dataimpulse.com:10008
+gw.dataimpulse.com:10009
